@@ -1,0 +1,24 @@
+/* Font ayarları için body içerisinde genel conf. yapmak tüm sayfa için daha sağlıklı oldu. */
+body {  
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-yellow {
+    background-color: rgb(255, 192, 23); 
+    
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid black;
+}
+
+.border-bottom-light {
+        border-bottom: 1px solid rgb(201, 199, 199);
+}
+
+/* direk olarak aside-btn class icindeki li lere etki eden class yapmış olduk */
+.aside-btn > li {     
+    margin-bottom: 10px;
+}
+
