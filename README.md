@@ -23,4 +23,5 @@
 ***
 
 ### İletişim
-* [Ümit GENİŞ](https://github.com/umitgenis/) | [e-mail adress for click](umitgenis@gmail.com)            
+* [Ümit GENİŞ](https://github.com/umitgenis/) | [e-mail adress for click](alert("umitgenis@gmail.com")) 
+           
